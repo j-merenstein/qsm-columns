@@ -6,3 +6,5 @@ The roi_labels.csv file provides a label for each of the 34 regions-of-interest 
 CustomMap.mat is a custom color coded map used in MATLAB to create Figures 4 and 5 (mat11_depth.mat).
 
 qsm_columns.R was used to create Figures 2 and 3 and to conduct the moderation analyses. 
+
+The .docx files contain the results from the linear regression and repeated measure ANOVAs that were conducted in JASP. 
